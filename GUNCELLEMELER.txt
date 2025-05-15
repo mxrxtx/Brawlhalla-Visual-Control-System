@@ -1,0 +1,19 @@
+/////   DEMO V2 ÖZELLÝKLERi   \\\\\ 
+
+* Ful otomatik kurgu
+
+* Bot sürekli döngü halinde otomatik olarak karakteri seçip oyuna girip savaþýp çýkar
+
+* Demo v2 %70 arka plan desteði saðlýyor
+
+* Artýk maç içerisinde karakterimizin yerini saptayabiliyoruz 
+
+* Artýk karakterimiz sabit durmuyor ve haritanýn ortasýna doðru ataklar gerçekleþtiriyor
+
+* Artýk tuþ vuruþlarý %100 arka planda çalýþýyor
+
+* Artýk odadayken pencere odak haline gelmiyor
+
++++++++++++++++++++++++++++++++++++
++     YENÝ ÖZELLÝKLER YAKINDA     +
++++++++++++++++++++++++++++++++++++

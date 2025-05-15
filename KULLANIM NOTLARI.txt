@@ -1,0 +1,20 @@
+* Eðer yoksa dosya içerisindeki Python her þeye izin vererek (bütün kutucuklara tik atarak) kurun
+
+* Python kurduktan sonra Setup.py dosyasýný çalýþtýrýn gerekli olan paketlerin yüklenmesi bittikten sonra herhangi bir tuþa basarak çýkýn
+
+* Brawhallayý açýn ve ayarlardan kamerayý fixeda alýn ardýndan oyunu pencere moduna alýn
+
+* Playe basýn ve Free-For-All moduna giriþ yapýp odada bekleyin herhangi bir karakter seçimi yapmanýza gerek yoktur
+
+* DemoV2.py dosyasýný çalýþtýrýn oyunun penceresi otomatik olarak küçülüp köþeye taþýnacaktýr TEBRÝKLER ARTIK BOTUNUZ ÇALIÞIYOR
+
+* Kýsa bir süreliðine sadece Free-For-All modu ve Queen Nai karakteri desteklenmektedir
+
+* Ýlerleyen zamanlarda arayüz eklenip bot daha akýllý ve arka planda çalýþýr hale getirelecektir takipte kalýn
+
+****************       ÖNEMLÝ      ***************** 
+* OYUN PENCERESÝNÝ TAÞIMAYIN                       *
+* OYUN PENCERESÝNÝ ARKA PLANA ALMAYIN              *
+* OYUN PENCERESÝNÝN BOYUTLARI ÝLE OYNAMAYIN        *
+* OYUN PENCERESÝNÝN ÖNÜNE BAÞKA PENCERE GETÝRMEYÝN *
+****************************************************
